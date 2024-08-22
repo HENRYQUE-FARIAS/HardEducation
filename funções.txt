@@ -1,0 +1,16 @@
+
+2x semaforo led verde, amarelo , vermelho	ok	
+1 rgb						ok
+2 botao						ok	
+1 buzzer					ok	
+1 ldr						ok	
+1 chave seletora 7 seguimentos			ok
+2 servos					ok	
+2 pot						ok
+rele 						ok
+bluetooth					ok
+Saida digital para sensor DH11/ultrasonico	ok
+2 motor DC controle de velocidade		ok
+sensor de cor
+sainda para modulo microfone			ok
+teclado matricial 0x9

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HARDino-rescue)(type Legacy)(uri ${KIPRJMOD}/HARDino-rescue.lib)(options "")(descr ""))
+)
